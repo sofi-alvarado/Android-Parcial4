@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parcial4</string>
+    <string name="tvEncabezado">Mi lista de compras</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="edtAgregar">Agregar producto a mi lista</string>
+    <string name="borrarLista">Borrar Lista</string>
+    <string name="about">Acerca de</string>
+    <string name="salir">Salir</string>
+    <string name="tvNombre">Alvarado Henríquez, Sofía Michelle 25-3152-2017</string>
+    <string name="edtProducto"></string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnEliminar">Eliminar</string>
+</resources>
